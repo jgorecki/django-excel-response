@@ -13,8 +13,8 @@ setup(
 
     packages=['excel_response'],
 
-    url='http://bitbucket.org/kmike/django-excel-response/',
-    download_url = 'http://bitbucket.org/kmike/django-excel-response/get/tip.zip',
+    url='https://github.com/jgorecki/django-excel-response/',
+    
     description = """A subclass of HttpResponse which will transform a QuerySet,
 or sequence of sequences, into either an Excel spreadsheet or
 CSV file formatted for Excel, depending on the amount of data.
